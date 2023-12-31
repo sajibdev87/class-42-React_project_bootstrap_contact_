@@ -1,0 +1,12 @@
+import React from 'react';
+
+const Footer = () => {
+    return (
+        <div className='container'>
+            <h3 className='text-center bg-info'>Footer</h3>
+            <p className='bg-primary'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex odio non vitae unde earum nulla ad adipisci voluptates totam esse, dignissimos, soluta natus? Ullam labore doloremque sint reprehenderit odit tempora ipsum quis quod, maxime autem nulla repudiandae voluptate animi ipsa molestiae quia blanditiis officiis! Magnam recusandae sequi repellendus nesciunt, sit maxime veniam aliquam! Eaque similique odio et perferendis ea alias delectus rem pariatur, non nisi inventore blanditiis quas ipsum magni praesentium odit velit. Possimus vel iusto officia eos cumque labore autem velit, iure quas, odio quae. Aperiam in unde maiores illum et omnis quos iste expedita, id esse eveniet debitis natus veniam vitae tempore sapiente perferendis ea velit explicabo. Laudantium veritatis dignissimos animi repellendus! Consectetur autem, delectus quam saepe doloribus neque minus error expedita ad ullam, asperiores harum quidem ut enim nesciunt veniam facilis. Dolore impedit provident voluptas iste ad nulla alias tenetur, aspernatur dolorum qui, quaerat unde delectus! Reiciendis nostrum officiis alias. Iusto, at praesentium deserunt perferendis quidem iste, cum exercitationem temporibus quas natus velit reprehenderit earum soluta fugiat alias nesciunt eum accusamus asperiores laborum. Rem temporibus non eaque tenetur reiciendis doloremque voluptate voluptatibus maiores ab voluptatum illo veniam amet assumenda eius, alias aliquid sunt adipisci! Obcaecati iure dolores recusandae illo unde similique harum soluta fugit vel? Maiores eos nulla repellendus quis dolores, impedit similique assumenda alias quisquam architecto magni sequi vero, in, ducimus recusandae natus veritatis adipisci tempore sunt. Amet ab aliquid obcaecati sed consequatur debitis totam repellendus accusantium, facere ratione voluptatum sunt neque tempore cum incidunt aperiam. Nam porro eveniet nesciunt veritatis architecto est, accusamus aut incidunt quo id nihil ab magni repudiandae quas molestias dignissimos perspiciatis ducimus error mollitia adipisci eum iste! Alias reprehenderit quia quam, aperiam esse non labore commodi, sint a in maxime consequatur ea laboriosam odit. Odio, quos repellat? Libero laboriosam velit harum.</p>
+        </div>
+    );
+};
+
+export default Footer;
